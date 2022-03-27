@@ -1,0 +1,1 @@
+from .api_adapter import chalice_adapter
